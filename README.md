@@ -1,8 +1,8 @@
 🏦MiniBankingSystem
 
-This is a banking system I developed in C++ during my first year at Düzce University. I was planning to pursue a master's degree in embedded systems. I wanted to showcase my knowledge with this project.
+Hello! I'm a student in Electrical and Electronics Engineering at Düzce University. This C++ banking system, which I developed in my first year, demonstrates my knowledge of object-oriented programming and file I/O. It's part of my portfolio for applying to a master's degree in embedded systems.
 
-🚀 Features
+🚀Features
 
 Creating new accounts with unique account numbers
 Depositing and withdrawing funds
@@ -23,16 +23,17 @@ Simple error handling logic
 
 This project was created for the following purposes:
 
-Practice C++ and reinforce OOP principles
-Learn file management and persistent storage
-Prepare for future embedded systems work (e.g., STM32, FreeRTOS)
+Demonstrate proficiency in C++ and object-oriented programming
+Implement file-based data persistence
+Prepare for advanced embedded system projects (e.g., STM32, FreeRTOS) as an electrical and electronics engineer
 
 📅 Updates
 
-August 28, 2025: First version completed
-I am currently preparing to work on STM32 and FreeRTOS-based systems and develop real-time embedded projects.
+August 28, 2025: First release completed
+Next steps: Developing real-time embedded projects with STM32 and FreeRTOS
 
 📄 License
+
 This project is licensed under the MIT License. You can use the code; please cite the source.
 
 📬 Contact
