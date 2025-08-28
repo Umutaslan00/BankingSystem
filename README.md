@@ -1,6 +1,6 @@
 🏦MiniBankingSystem
 
-Hello! I'm a student in Electrical and Electronics Engineering at Düzce University. This C++ banking system, which I developed in my first year, demonstrates my knowledge of object-oriented programming and file I/O. It's part of my portfolio for applying to a master's degree in embedded systems.
+Hello! I'm a student in Electrical and Electronics Engineering at Düzce University. This C++ banking system, which I developed in my first year, includes object-oriented programming and file I/O. It's part of my portfolio for applying for a master's degree in embedded systems.
 
 🚀Features
 
