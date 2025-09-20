@@ -254,7 +254,7 @@ int main() {
         switch (choice) {
         case 1:
             cout << "Enter account owner's name: ";
-            getline(cin, name);
+            getline(cin.ignore(1000, '\n'), name);
             bank.createAccount(name);
             break;
         case 2:
