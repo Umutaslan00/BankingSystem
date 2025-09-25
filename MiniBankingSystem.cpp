@@ -22,9 +22,9 @@ using namespace std;
 
 class Account {
 private:
-    string accountNo; 
-    string ownerName; 
-    double balance; 
+    string accountNo;
+    string ownerName;
+    double balance;
 
 public:
     // Constructor
@@ -70,9 +70,9 @@ public:
 // Bank class: Manages accounts and file operations
 class Bank {
 private:
-    vector<Account> accounts; 
-    string fileName; 
-    static int accountCounter; 
+    vector<Account> accounts;
+    string fileName;
+    static int accountCounter;
 
     // Load accounts from file
 
@@ -254,8 +254,9 @@ int main() {
 
         switch (choice) {
         case 1:
+            cin.ignore(1000, '\n');
             cout << "Enter account owner's name: ";
-            getline(cin.ignore(1000, '\n'), name);
+            getline(cin, name);
             bank.createAccount(name);
             break;
         case 2:
@@ -282,7 +283,6 @@ int main() {
     }
     return 0;
 }
-
 
 
 
